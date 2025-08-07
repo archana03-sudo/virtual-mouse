@@ -1,0 +1,24 @@
+Project Title: Virtual Mouse Using Hand Gestures
+
+Objective:
+To control the mouse cursor using hand gestures via webcam using Python, OpenCV, and Mediapipe.
+
+Tools Used:
+- Python
+- OpenCV
+- Mediapipe
+- PyAutoGUI
+
+Working:
+- The webcam captures live video.
+- Mediapipe detects the hand and tracks finger positions.
+- Index finger is used to move the cursor.
+- When index and middle fingers are brought together, a click is triggered.
+
+Applications:
+- Touchless UI
+- Accessibility tools
+- Gesture-based control
+
+Conclusion:
+This project demonstrates a real-time computer vision application for gesture-controlled system interaction using only a webcam.
